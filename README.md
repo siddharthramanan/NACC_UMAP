@@ -1,2 +1,2 @@
 # NACC_UMAP
-Repo to accompany paper
+Repo to accompany Ramanan et al. paper
